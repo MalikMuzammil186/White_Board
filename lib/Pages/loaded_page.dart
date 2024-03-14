@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_white_bord_with_bloc/Size/larg_size_pen.dart';
 import 'package:flutter_white_bord_with_bloc/Size/small_sie_pen.dart';
 
 class LoadedPage extends StatefulWidget {
